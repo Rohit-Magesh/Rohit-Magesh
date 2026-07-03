@@ -12,11 +12,6 @@
   <img src="harvey-specter-suits.gif" alt="Coding GIF" width="600"/>
 </p>
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak" />
-  </a>
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rohit-magesh-508aa0382/" target="_blank">
