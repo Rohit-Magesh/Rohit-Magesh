@@ -98,5 +98,30 @@ AI TOOLS
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge"/>
 </p>
 
+---
+
+## Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rohit-Magesh&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit-Magesh&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-Magesh&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+<p align="center">
+  <i>"Winners don't make excuses when the other side plays the game."</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rohit-Magesh&label=PROFILE+VIEWS&color=brightgreen&style=flat" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a40,100:2c3e90&height=120&section=footer"/>
+
 
 
