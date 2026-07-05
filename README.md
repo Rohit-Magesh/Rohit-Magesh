@@ -52,14 +52,6 @@ goal:
 
 ```
 ARSENAL
-```
-<p align="center">
-  <a href="https://rohit-magesh.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFOLIO-4F46E5?style=for-the-badge&logo=vercel&logoColor=white">
-  </a>
-</p>
-
-```
 LANGUAGES
 ```
 <p align="center">
